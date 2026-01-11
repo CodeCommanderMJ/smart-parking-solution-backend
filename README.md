@@ -80,7 +80,5 @@ Run locally
 firebase emulators:start
 
 ☁️ Deployment
-
 Deploy the backend to Firebase:
-
 firebase deploy
