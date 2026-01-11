@@ -72,3 +72,15 @@ cd smart-parking-solution-backend
 Install dependencies
 cd functions
 npm install
+
+Login to Firebase
+firebase login
+
+Run locally
+firebase emulators:start
+
+☁️ Deployment
+
+Deploy the backend to Firebase:
+
+firebase deploy
